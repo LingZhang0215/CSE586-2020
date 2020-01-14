@@ -1,1 +1,1 @@
-python3torchtorchvision"pillow<7.0"numpy
+torchtorchvisionpillow<7.0numpy
