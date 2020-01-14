@@ -1,0 +1,1 @@
+Git instructions:1. Git init: initial local repo2. Git add: add file to local repo3. Git commit: commit the changes4. Git push -u origin master
